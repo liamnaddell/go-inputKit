@@ -1,4 +1,4 @@
-package pk
+package ik
 
 import "bufio"
 import "fmt"
